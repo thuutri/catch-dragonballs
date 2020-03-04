@@ -1,0 +1,1674 @@
+fileFormatVersion: 2
+guid: c620656a7f94e1c449d46c87b7798f9e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_0
+    21300002: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_1
+    21300004: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_2
+    21300006: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_3
+    21300008: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_4
+    21300010: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_5
+    21300012: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_6
+    21300014: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_7
+    21300016: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_8
+    21300018: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_9
+    21300020: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_10
+    21300022: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_11
+    21300024: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_12
+    21300026: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_13
+    21300028: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_14
+    21300030: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_15
+    21300032: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_16
+    21300034: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_17
+    21300036: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_18
+    21300038: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_19
+    21300040: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_20
+    21300042: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_21
+    21300044: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_22
+    21300046: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_23
+    21300048: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_24
+    21300050: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_25
+    21300052: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_26
+    21300054: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_27
+    21300056: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_28
+    21300058: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_29
+    21300060: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_30
+    21300062: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_31
+    21300064: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_32
+    21300066: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_33
+    21300068: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_34
+    21300070: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_35
+    21300072: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_36
+    21300074: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_37
+    21300076: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_38
+    21300078: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_39
+    21300080: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_40
+    21300082: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_41
+    21300084: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_42
+    21300086: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_43
+    21300088: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_44
+    21300090: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_45
+    21300092: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_46
+    21300094: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_47
+    21300096: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_48
+    21300098: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_49
+    21300100: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_50
+    21300102: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_51
+    21300104: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_52
+    21300106: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_53
+    21300108: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_54
+    21300110: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_55
+    21300112: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_56
+    21300114: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_57
+    21300116: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_58
+    21300118: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_59
+    21300120: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_60
+    21300122: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_61
+    21300124: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_62
+    21300126: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_63
+    21300128: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_64
+    21300130: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_65
+    21300132: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_66
+    21300134: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_67
+    21300136: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_68
+    21300138: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_69
+    21300140: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_70
+    21300142: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_71
+    21300144: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_72
+    21300146: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_73
+    21300148: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_74
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 470
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3b9be7155ea9346abc5e14eab9d04c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 500
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b4745aba39b93419d363d91bf708ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 504
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f248ce1d014dc459726ee84708dd1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 504
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac482950c03da94cb314b689c05ecb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 505
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0468bd1bcf56ed44bac56b9fe21822f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 465
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed9040ec57b14b4bb20f9da37c789b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 477
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd3761431faf74439b14152d52cf402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 479
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78462d26ad5302742a29e610fc886a5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 480
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241c0633128f5f04089621fb4d44aefc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_9
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 480
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff20ac3954143a142b00b33285aff035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_10
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 481
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b72050ebf1d37d4db565b69ed7fe2ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_11
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 484
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7339a86b1651f384fbcecd42dd6b680f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 366
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139f082577f7b6a4dbc6ca1eb8ec96d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 413
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314db72b136afc347839f80743b8392a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 419
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d15ea1d070cd2c458bb2ff654be22b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 420
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968618882520d5c41b80877e3d03dd20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_16
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 420
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ac5b6f8237bc04ca9a6456133f3994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 378
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facf66b1172b2b3468c5e24c4cfc7a69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_18
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 390
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3118f49bde8b624682d292060a1420c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_19
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 384
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032f94d5f0806ab4eafa0cfa6acdf442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_20
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 393
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecffcf5bc14b21429245635611aba45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_21
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 385
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b858d4f00a9681942b363aa3ad652943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_22
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 400
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040955e77a0f85a4bbec5876fe1c73f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_23
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 402
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db9bba3b5ebdc847aa605d91b29e94e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_24
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 403
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3249de298b2fc7f4bb9c3a4562d6630c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 286
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fb63ee9929d4a4394a82acc565225f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 315
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821470510f8fba34abff36538e8a23ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 338
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3d995e66a4a1a45b52fec3b85f1622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 307
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5418ed69513fcc14d926824aa21fa78d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_29
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 302
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953c35fdef18ba2429de1879104716c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_30
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 303
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a94e7777c150c49aa135a1a281e0c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 302
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7dc920e65ccce49a04595f748dc8c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_32
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 303
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbc308722309a8449779e9b31fa8f0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_33
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 304
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d9a1f790537e24193f2fdeb94e8e70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_34
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 304
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7474b6e2376164ead0d528c4f11ec0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_35
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 306
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9b3e9703446794a965dcb37ef8f430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_36
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 308
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e93108cb0861ea4993820741a5ef9d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 215
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c623c872cc593f4c87605b159c95122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_38
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 221
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f737a29d89a347746ac91048b47ba8f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_39
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 254
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36baf3778a3ecc24092a0fc1e4244939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_40
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 226
+        width: 35
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf2238e3277b664c819d3b8a1c31578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_41
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 218
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a5c8644900c764eb9925983247aa54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_42
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 218
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87572c6c6dc4d444a367f8b0ff97f76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_43
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 216
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1830ab3f267f8014da7ceba6beb260b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_44
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 217
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11493a0505ebf7243ba8ee1cd725d0dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_45
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 216
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f8169180b6e0e499c4687b766cb834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_46
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 215
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f645e944f26ec4cb12ac0a51b84fc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_47
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 215
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2817f9ed36fc877499f86942e2c40692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_48
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 217
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e656a1038fe7497429d7eb5339f3cf56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_49
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 214
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2beadc0e7160636458e5e444cbd8278b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 108
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d05a4b0bd38acd438dcaeb90a783433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_51
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 109
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e208ab5dd55c7f54a8863780b7928834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_52
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 110
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b464a8e1f11a4984d8b043d1ec2a5b0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_53
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 129
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4205e0b7e442a49acedd76a8045dc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_54
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 129
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8efd364c3cb8ac43a0c4753a96fe288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_55
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 128
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd4d7ea4e33a1047b74f116ca4450bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_56
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 129
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adca8d53ad14714e8dd1b857cc5874c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_57
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 130
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbe899104e647047b0253949e566d4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_58
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 128
+        width: 78
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec53a490760217549a9a2c52b37a36b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_59
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 130
+        width: 84
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c49c42a590306c46acdb6b4dd67fd5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_60
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 130
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd35aa99bf6f7546840bc3e8725367c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_61
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 6
+        width: 41
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6242842d99a7ebc44900f913d2067551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_62
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d241a549020bdc40b3ef2c961066b2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_63
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 12
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb7556aff9c748438259fcdde0db848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_64
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 13
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b3a122f6cd33d4084da99b6b977ec0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 13
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1433475fed910428b031be13a21f37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_66
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 13
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733a27e2194080f4c826f46448849425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_67
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 13
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f1d14085ed8b4458a48c79b135594c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_68
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 13
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8701fad327f190d42bd84977b026c68f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_69
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 12
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f973707b6d54505439d728efebb70b22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_70
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 11
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e035b83e82bda4aacf20ae28af6207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_71
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 12
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec935b21c2db78a478e9b6825e9c3f19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_72
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 14
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b78809abb3338b4dbb18efdded7795b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_73
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 11
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeb682f3d7a98e48931c99bcc5cd89a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_ssj_goku_sprite_sheet_by_cy689-d3ajy0h_74
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 11
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287f6e91205a4494c9fdd2ef61a6cb3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2b63fcae31a2983498f9d6d9341164ff
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
